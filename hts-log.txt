@@ -1,0 +1,801 @@
+HTTrack3.49-4+libhtsjava.so.2 launched on Sun, 11 Feb 2024 18:41:58 at https://wieisdemol.avrotros.nl/home/ https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-6/ https://wieisdemol.avrotros.nl/kandidaten/ https://wieisdemol.avrotros.nl/afleveringen/ https://wieisdemol.avrotros.nl/moltalk/ https://wieisdemol.avrotros.nl/info/ https://wieisdemol.avrotros.nl/kandidaten/item/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -iC2 https://wieisdemol.avrotros.nl/home/ https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-6/ https://wieisdemol.avrotros.nl/kandidaten/ https://wieisdemol.avrotros.nl/afleveringen/ https://wieisdemol.avrotros.nl/moltalk/ https://wieisdemol.avrotros.nl/info/ https://wieisdemol.avrotros.nl/kandidaten/item/ -O "/home/silke/websites/wieisdemol" -n -t -%P -N0 -s2 -x -p7 -D -a -K0 -c4 -%k -A100000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:42:01	Warning: 	File not parsed, looks like binary: https://wieisdemol.avrotros.nl/robots.txt
+18:42:07	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: kmnl.tns-nipo.com/
+18:42:34	Warning: 	Moved Permanently for https://wieisdemol.avrotros.nl/kandidaten/item/
+18:42:34	Warning: 	File has moved from https://wieisdemol.avrotros.nl/kandidaten/item/ to http://wieisdemol.avrotros.nl/kandidaten/item/item
+18:42:37	Warning: 	Moved Permanently for cookies.avrotros.nl/robots.txt
+18:42:37	Warning: 	Redirected link is identical because of 'URL Hack' option: cookies.avrotros.nl/robots.txt and https://cookies.avrotros.nl/robots.txt
+18:42:37	Warning: 	Warning moved treated for cookies.avrotros.nl/robots.txt (real one is https://cookies.avrotros.nl/robots.txt)
+18:42:37	Warning: 	Moved Permanently for cookies.avrotros.nl/
+18:42:37	Warning: 	Redirected link is identical because of 'URL Hack' option: cookies.avrotros.nl/ and https://cookies.avrotros.nl/
+18:42:37	Warning: 	File has moved from cookies.avrotros.nl/ to https://cookies.avrotros.nl/
+18:42:38	Warning: 	Moved Permanently for ccm.npo.nl/robots.txt
+18:42:38	Warning: 	Redirected link is identical because of 'URL Hack' option: ccm.npo.nl/robots.txt and https://ccm.npo.nl/robots.txt
+18:42:38	Warning: 	Warning moved treated for ccm.npo.nl/robots.txt (real one is https://ccm.npo.nl/robots.txt)
+18:42:38	Warning: 	Moved Permanently for ccm.npo.nl/
+18:42:38	Warning: 	Redirected link is identical because of 'URL Hack' option: ccm.npo.nl/ and https://ccm.npo.nl/
+18:42:38	Warning: 	File has moved from ccm.npo.nl/ to https://ccm.npo.nl/
+18:42:39	Warning: 	Found for atconnect.npo.nl/robots.txt
+18:42:39	Warning: 	File has moved from atconnect.npo.nl/robots.txt to https://atconnect.npo.nl/robots.txt?fh=1
+18:42:39	Warning: 	Found for atconnect.npo.nl/
+18:42:39	Warning: 	File has moved from atconnect.npo.nl/ to https://atconnect.npo.nl/?fh=1
+18:42:40	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from https://wieisdemol.avrotros.nl/home/)
+18:42:41	Error: 	"Not Found" (404) at link fonts.gstatic.com/ (from https://wieisdemol.avrotros.nl/home/)
+18:42:41	Warning: 	Moved Permanently for search-api.avrotros.nl/robots.txt
+18:42:41	Warning: 	Redirected link is identical because of 'URL Hack' option: search-api.avrotros.nl/robots.txt and https://search-api.avrotros.nl/robots.txt
+18:42:41	Warning: 	Warning moved treated for search-api.avrotros.nl/robots.txt (real one is https://search-api.avrotros.nl/robots.txt)
+18:42:41	Warning: 	Moved Permanently for search-api.avrotros.nl/
+18:42:41	Warning: 	Redirected link is identical because of 'URL Hack' option: search-api.avrotros.nl/ and https://search-api.avrotros.nl/
+18:42:41	Warning: 	File has moved from search-api.avrotros.nl/ to https://search-api.avrotros.nl/
+18:42:43	Error: 	"Forbidden" (403) at link tag.aticdn.net/ (from https://wieisdemol.avrotros.nl/home/)
+18:42:44	Warning: 	Moved Permanently for www.google-analytics.com/
+18:42:44	Warning: 	File has moved from www.google-analytics.com/ to https://www.google.com/analytics/
+18:42:45	Error: 	"Bad Request" (400) at link www.googletagmanager.com/ (from https://wieisdemol.avrotros.nl/home/)
+18:42:45	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link kmnl.tns-nipo.com/robots.txt (from https://wieisdemol.avrotros.nl/home/)
+18:42:45	Warning: 	Retry after error -5 (Unable to get server's address: No address associated with hostname) at link kmnl.tns-nipo.com/ (from https://wieisdemol.avrotros.nl/home/)
+18:42:45	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: kmnl.tns-nipo.com/
+18:44:03	Warning: 	Moved Permanently for wieisdemol.avrotros.nl/robots.txt
+18:44:03	Warning: 	Redirected link is identical because of 'URL Hack' option: wieisdemol.avrotros.nl/robots.txt and https://wieisdemol.avrotros.nl/robots.txt
+18:44:03	Warning: 	Warning moved treated for wieisdemol.avrotros.nl/robots.txt (real one is https://wieisdemol.avrotros.nl/robots.txt)
+18:44:03	Warning: 	Moved Permanently for wieisdemol.avrotros.nl/kandidaten/item/item/
+18:44:03	Warning: 	Redirected link is identical because of 'URL Hack' option: wieisdemol.avrotros.nl/kandidaten/item/item/ and https://wieisdemol.avrotros.nl/kandidaten/item/item/
+18:44:03	Warning: 	File has moved from wieisdemol.avrotros.nl/kandidaten/item/item/ to https://wieisdemol.avrotros.nl/kandidaten/item/item/
+18:44:03	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link kmnl.tns-nipo.com/ (from https://wieisdemol.avrotros.nl/home/)
+18:44:03	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: kmnl.tns-nipo.com/
+18:44:19	Warning: 	Moved Permanently for https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-4-1/
+18:44:19	Warning: 	File has moved from https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-4-1/ to https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-4-jeroen/
+18:44:59	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link kmnl.tns-nipo.com/ (from https://wieisdemol.avrotros.nl/home/)
+18:46:31	Error: 	Exit requested by shell or user
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/8/2/csm_Moltalk-3-2023_3b92aeab2c.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/b/c/csm_widm23-exclusief-busjeruilen_08484d7765.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/7/5/csm_131-MOL-COMPILIATIE-1280x720-web_9f2067f70e.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/e/1/csm_widm23-exclusief-commandomol_81bbd3bc55.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/7/9/csm_WIDM23-Rik-van-de-Westelaken-podcast_c822047ded.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/1/1/csm_widm23-opdracht2-zandlopers_9676011e89.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/a/9/csm_widm23-opdracht3-analogetest_05362047d7.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/b/6/csm_widm23-opdracht1-uitvlakken_28e7520a71.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/5/c/csm_widm23-exclusief-doornaaraflevering9_ccdd4df381.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/e/8/csm_widm23-opdracht2-vuurproef_ffb365c2bf.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/e/3/csm_widm23-opdracht3-hetschipingaan_f16bb542a6.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/5/1/csm_WIDM Opdracht 4.1_69860b0d14.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/0/5/csm_WIDM Opdracht-4.2_21c3f14dff.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/a/2/csm_WIDM Opdracht-4.3_db0e9510fe.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/8/d/csm_Thumb-extra-video-7-2b-DeNoiseAI-denoise_c761b3b982.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/a/8/csm_WIDM opdracht 1 aflevering 2 s21_5d96a3e8ec.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/5/f/csm_WIDM opdracht 2 aflevering 2 s21_0cb359f5df.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/9/1/csm_WIDM aflevering 3 opdracht 3_469f4038ba.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/9/a/csm_Opdracht-6.1_4bf09c0fb5.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/3/4/csm_Aflevering-6_77cd876460.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/b/e/csm_2019_4_opdr3_thumb_b989a52e45.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/2/f/csm_WIDM A7 Opdracht 2_fd3bdc4065.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/c/f/csm_2019_2_thumb_opdr_2_c763becf01.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/1/d/csm_2019_8_opdr2_thumb_0a12365f37.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/4/4/csm_item_1275_14eb99be57.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/poms_import/item_1272.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/5/c/csm_widm-exclusief-kamerindeling_84991855d8.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/9/9/csm_foto haarlem_07fa19df07.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/2/c/csm_IJSSELSTEIN_b9d93dc009.jpeg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/7/e/csm_KIST WEERT_3af21b3d03.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/b/b/csm_MIDDELBURG_eab02c4828.jpeg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/2/8/csm_DEVENTER_8259766339.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/5/8/csm_WIDM_artikelheader_d83ef2eaca.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/3/9/csm_tygo_aantafel_jubileum_0872c3b5d8.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/d/3/csm_Nikkie_aantafel_jubileum_ca18fc7481.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/3/9/csm_jeroen_aantafel_jubileum_95e0fdae06.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/4/9/csm_moltalk7_jubileum_thumbnail_e6e13639b0.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/e/1/csm_aflevering7_thumbs_0003_Thumb afl 7_d4cb4aa458.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/2/3/csm_thumb_finale_widm-JUBILEUM_1c40e6e1a9.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/6/1/csm_jubileum_thumb_NTERNET_INTERVIEW_MET_MUZIEK_10_3ed57fa554.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/9/b/csm_item_1394_73af563a45.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/a/7/csm_item_1396_8d0d8b2018.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/1/a/csm_Moltalk-aflevering1-gasten_8f12817abf.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/user_upload/WIDM23/Moltalk/Moltalk-aflevering1-gasten.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/4/9/csm_WIDM-aflevering1-header_7e88769a36.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/d/5/csm_Moltalk-a6 voor web_dc20cc848c.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/4/9/csm_Molvisie-share_73362492b2.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/b/3/csm_Thumb-extra-video-1-aflevering5-groep-DeNoiseAI-denoise_d6abfa0e8f.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/0/8/csm_Moltalk-5-voor-web_84abce1d3c.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/2/6/csm_Moltalk-A8---opgeslagen-voor-web_2fc67601bf.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/e/9/csm_2021_Moltalk-7-opgeslagen-voor-web_73a4a44d02.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/0/d/csm_MolTalk-Aflevering-4-gasten_f2df7b91fc.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/5/b/csm_Drietal-MolTalk-voor-web_88573a8320.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/e/6/csm_WIDM-a2-Zwijgen-broadcast-voor-web_a6204932ff.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/f/a/csm_Dagboek-afvaller_A2-website_c619389bbd.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/7/f/csm_NDM-thumbnail-A2-afvaller-web_a0e3eccf1a.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/2/9/csm_MolTalk 8 gasten lachend_53d62f381c.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/7/6/csm_MolTalk-15-jan-voor-web_bdfbc66f13.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/1/6/csm_MolTalk A5 gasten_88da77fc79.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/a/b/csm_widm23-aflevering6-lijdensweg_0120cb6a64.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/a/1/csm_widm23-opdracht2_081ed08a8f.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/5/6/csm_widm23-opdracht1-altaarego_0250904597.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/9/2/csm_widm23-opdracht2-verschijning_c0fbb67a06.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/1/5/csm_WIDM-aflevering5_2b361f24f1.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/7/f/csm_exclusief-4.2_4a6f73bc64.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/b/7/csm_widm23-opdracht3-aflevering1_32e2d7899c.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/7/0/csm_widm23-aflevering8-2_10a36fc5d4.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/6/f/csm_widm-aflevering3-header_be9531db74.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/9/8/csm_widm23-opdracht1-omleiding_c85f09fe60.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/3/4/csm_widm23-opdracht2-perdefinitie_50bfc723b5.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/1/4/csm_widm23-Opdracht1-aflevering1_365abacbd5.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/4/d/csm_WIDM-3.2-Typo_be0e8eba53.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/5/5/csm_land-seizoen-23-hoofd_1f13318831.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/6/0/csm_widm23-opdracht1_83f218f365.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/7/e/csm_widm23-Opdracht2-aflevering1_ccd7e6191b.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/1/e/csm_widm23-opdracht3-moltelefoon_d5d43a5c13.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/1/6/csm_widm23-opdracht1-focusgroep_0d29153f13.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/b/c/csm_widm23-dagboek5_a952f32bc0.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/poms_import/item_1962.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/3/3/csm_item_2059_d5d190c58a.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/a/b/csm_item_2050_b90cc96f9b.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/9/9/csm_Vooruitblik-aflevering-6_e41282d67b.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/f/1/csm_widm23_dagboek_afvaller1_480daa34a6.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/a/6/csm_widm-default-image_fd418dada6.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/1/9/csm_MolTalk-3 voor web_a786187c8c.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/b/0/csm_Dagboek-afvaller-aflevering3-rechts_75b3e08167.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/d/f/csm_WIDM aflevering 3_acf769b2f9.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/c/b/csm_widm23-dagboek-afvaller3_84ae9e8885.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/3/0/csm_9 E Soy daniel ranomi_ec310c5c65.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/2/e/csm_NDM-thumbnail-Froukje_91f177487a.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/b/b/csm_widm23_dagboek_afvaller2_cdc0ed5776.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/9/f/csm_prijsvraag-aflevering2_e57d425894.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/8/d/csm_WIDM-Finalisten-1280x720_5073fc2183.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/d/0/csm_141-ZANDLOPERS-1280x720-web_a15fb4f89f.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/e/0/csm_widm23-aflevering2-V2_d990a5687b.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/b/b/csm_widm23-opdracht2-propvol_7cd5258f28.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/0/c/csm_Podcast-Splinter-voor-web_1f3c38b4e2.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/f/7/csm_Niet-de-Mol-Splinter-Chabot-rode-koffer_4cd9b2d36d.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/8/b/csm_NDM-3-Thumb-afvaller-POMS-TYPO_7bc51b3181.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/6/d/csm_widm23-opdracht1-stalenzenuwen_abcfb556ad.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/4/f/csm_item_1978_9133d7f704.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/d/2/csm_Dagboek-Mol-Website_01d991f294.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/3/0/csm_Dagboek-winnaar_website_3981822890.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/3/3/csm_Rik-pers-7_bff1ebbf1f.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/1/1/csm_Dagboek-verliezend-finalist_website_9458ebd982.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/f/8/csm_widm23-exclusief-alleenmaarvloeken_8c098f8f00.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/e/4/csm_widm23-exclusief-roadtrip_15231d6e7e.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/1/2/csm_widm23-aflevering7-inzichtelijk_8976ddd376.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/b/6/csm_Thumb POMS EV afscheid1_de16f9b7ac.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/8/9/csm_Dagboek-afvaller5_website_6bc9a6ab17.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/0/6/csm_Thumb POMS NDM 5 kandidaat_e968fdbe8b.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/8/5/csm_Thumb POMS EV zweverig4_a25ef1fded.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/1/d/csm_WIDM-aflevering-5_ad9d1eaccf.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/9/8/csm_Thumb POMS EV afscheid_b1aa768315.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/a/b/csm_Extra-video-2-voor-web_09198d1ab8.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/9/2/csm_Thumb POMS EV Afscheid1_5085d5a93f.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/5/e/csm_WIDM aflevering 8_9734f46888.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/f/c/csm_MolTalk Rop Marlijn Everon_8603f22b50.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/2/b/csm_Wie-is-de-Mol-aflevering-4_5f481266c0.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/6/f/csm_Exclusief-Nabil-afscheid_84a8fa3691.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/5/e/csm_widm23-opdracht3_e2529acae9.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/1/6/csm_widm23-opdracht1-abvallers_92b6786049.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/b/8/csm_widm23-opdracht2-vanruilenkomthuilen_ac34b29551.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/5/3/csm_Prijsvraag9-groep_6d65bbd87b.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/c/a/csm_WIDM-23-aflevering-2-exlusief-2_cc202cccfd.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/d/5/csm_widm23-opdracht1-stoelendans_47b7f0fc4d.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/d/4/csm_widm23-exclusief-zingenendansen_16a06f2ba5.png
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/0/b/csm_5 _ 6 hele groep_54d4d684ab.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/4/4/csm_Thumb-Website-extra-video-busje1a_3dfb30d7cb.jpg
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-busje-ruilen/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-busje-ruilen/ (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-3-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/alle-molacties-en-highlights/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/alle-molacties-en-highlights/ (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-3-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-zandlopers-1/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-zandlopers-1/ (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-commando-mol/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-uitvlakken/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-uitvlakken/ (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-analoge-test/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-door-naar-aflevering-9/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-door-naar-aflevering-9/ (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-analoge-test/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-vuurproef/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-vuurproef/ (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-analoge-test/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-het-schip-ingaan/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-het-schip-ingaan/ (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-analoge-test/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-42/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-42/ (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-41/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-43/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-43/ (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-41/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/extra-video-het-jokertje-van-de-penningmeester/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/extra-video-het-jokertje-van-de-penningmeester/ (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-41/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-21/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-21/ (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-41/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-22/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-22/ (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-41/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-33/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-33/ (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-41/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-61/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-61/ (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-41/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/wegstoppen/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/wegstoppen/ (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-41/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-de-boot-missen/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-de-boot-missen/ (from https://wieisdemol.avrotros.nl/afleveringen/item/koffiepedia/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/ver-tellen/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/ver-tellen/ (from https://wieisdemol.avrotros.nl/afleveringen/item/koffiepedia/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/in-het-vizier/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/in-het-vizier/ (from https://wieisdemol.avrotros.nl/afleveringen/item/koffiepedia/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/afl-3-vlag-uithangen/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/afl-3-vlag-uithangen/ (from https://wieisdemol.avrotros.nl/afleveringen/item/koffiepedia/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/seizoen-23/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/seizoen-23/ (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-kamerindeling-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-winnaar-3/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-winnaar-3/ (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-verliezend-finalist-3/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-mol-3/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-mol-3/ (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-verliezend-finalist-3/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-7-17-10-2020/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-7-17-10-2020/ (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-verliezend-finalist-3/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/deja-vu-17-10-2020/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/deja-vu-17-10-2020/ (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-verliezend-finalist-3/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/finale-24-10-2020/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/finale-24-10-2020/ (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-verliezend-finalist-3/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/extra-molactie-en-interview-met-de-mol/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/extra-molactie-en-interview-met-de-mol/ (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-verliezend-finalist-3/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-aflevering-4/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-aflevering-4/ (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-verliezend-finalist-3/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-aflevering-4/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-aflevering-4/ (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-verliezend-finalist-3/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-1-verbinding/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-1-verbinding/ (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-1-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/extra-video-gemengde-gevoelens/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/extra-video-gemengde-gevoelens/ (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-6/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-5/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-5/ (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-6/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-8/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-8/ (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-6/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-7/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-7/ (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-6/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-4-1/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-4-1/ (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-6/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/zwijgen/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/zwijgen/ (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-2-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-aflevering-2/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-aflevering-2/ (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-2-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-2-glen-faria/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-2-glen-faria/ (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-2-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-8-1/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-8-1/ (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-2-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/moltalk/item/moltalk-1/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/moltalk/item/moltalk-1/ (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-2-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-5-1/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-5-1/ (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-2-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-eendzame-hoogte-1/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-eendzame-hoogte-1/ (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-6-lijdensweg/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-verschijning/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-verschijning/ (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-altaar-ego-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-toonaangevend/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-toonaangevend/ (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-wie-heeft-het-rode-scherm-gezien/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-8-brandpunt/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-8-brandpunt/ (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-wie-heeft-het-rode-scherm-gezien/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-om-leiding/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-om-leiding/ (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-3-spelbreker/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-per-definitie/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-per-definitie/ (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-3-spelbreker/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-wie-wordt-de-mol/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-wie-wordt-de-mol/ (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-3-spelbreker/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-focusgroep/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-focusgroep/ (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-moltelefoon/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/vooruitblik-aflevering-9-1/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/vooruitblik-aflevering-9-1/ (from https://wieisdemol.avrotros.nl/afleveringen/item/vooruitblik-aflevering-1-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/vooruitblik-aflevering-8-1/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/vooruitblik-aflevering-8-1/ (from https://wieisdemol.avrotros.nl/afleveringen/item/vooruitblik-aflevering-1-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/vooruitblik-aflevering-6-1/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/vooruitblik-aflevering-6-1/ (from https://wieisdemol.avrotros.nl/afleveringen/item/vooruitblik-aflevering-1-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-afl-3-4/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-afl-3-4/ (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-3/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-3/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-3/ (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-3/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-dit-is-de-finale/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-dit-is-de-finale/ (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-sander-de-kramer/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-froukje-de-both/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-froukje-de-both/ (from https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-2-froukje-de-both/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/exclusieve-molacties-en-geheime-aanwijzingen/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/exclusieve-molacties-en-geheime-aanwijzingen/ (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-10-pokerface/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-propvol/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-propvol/ (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-2-kunstgreep/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-3-welmoed-sijtsma/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-3-welmoed-sijtsma/ (from https://wieisdemol.avrotros.nl/afleveringen/item/de-wie-is-de-mol-podcast-seizoen-22/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/vooruitblik-aflevering-2-1/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/vooruitblik-aflevering-2-1/ (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-stalen-zenuwen/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/beleef-wie-is-de-mol-met-audiodescriptie/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/beleef-wie-is-de-mol-met-audiodescriptie/ (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-winnaar-daniel-verlaan/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-roadtrip/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-roadtrip/ (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-alleen-maar-vloeken/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-aflevering-5/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-aflevering-5/ (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-een-potentiele-mol-minder/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-5-hila-noorzai/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-5-hila-noorzai/ (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-een-potentiele-mol-minder/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-even-de-liefde-laten-stromen/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-even-de-liefde-laten-stromen/ (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-een-potentiele-mol-minder/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/kettingreactie/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/kettingreactie/ (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-een-potentiele-mol-minder/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-ik-sta-helemaal-te-trillen/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-ik-sta-helemaal-te-trillen/ (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-een-potentiele-mol-minder/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-ik-wil-geen-afscheid-nemen/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-ik-wil-geen-afscheid-nemen/ (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-een-potentiele-mol-minder/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-zijn-alle-vrijstellingen-nu-op/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-zijn-alle-vrijstellingen-nu-op/ (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-een-potentiele-mol-minder/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/mollenvanger/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/mollenvanger/ (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-een-potentiele-mol-minder/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-10/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-10/ (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-een-potentiele-mol-minder/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/stemmen/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/stemmen/ (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-een-potentiele-mol-minder/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-ontboezemingen-in-het-busje/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-ontboezemingen-in-het-busje/ (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-grootste-angst/)
+18:46:32	Warning: 	Moved Permanently for cookies.avrotros.nl/
+18:46:32	Warning: 	Redirected link is identical because of 'URL Hack' option: cookies.avrotros.nl/ and https://cookies.avrotros.nl/
+18:46:32	Warning: 	File has moved from cookies.avrotros.nl/ to https://cookies.avrotros.nl/
+18:46:32	Warning: 	Moved Permanently for ccm.npo.nl/
+18:46:32	Warning: 	Redirected link is identical because of 'URL Hack' option: ccm.npo.nl/ and https://ccm.npo.nl/
+18:46:32	Warning: 	File has moved from ccm.npo.nl/ to https://ccm.npo.nl/
+18:46:32	Warning: 	Moved Permanently for search-api.avrotros.nl/
+18:46:32	Warning: 	Redirected link is identical because of 'URL Hack' option: search-api.avrotros.nl/ and https://search-api.avrotros.nl/
+18:46:32	Warning: 	File has moved from search-api.avrotros.nl/ to https://search-api.avrotros.nl/
+18:46:32	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://wieisdemol.avrotros.nl/home/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/home/a
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/home/POST
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/home/b.resolvedLink
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/signals/iwl.js
+18:46:32	Warning: 	HTML file (102353 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-5-terugkeer/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-5-terugkeer/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-5-terugkeer/ (from https://wieisdemol.avrotros.nl/afleveringen/)
+18:46:32	Warning: 	HTML file (102297 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-3-vragenvuur/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-3-vragenvuur/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-3-vragenvuur/ (from https://wieisdemol.avrotros.nl/afleveringen/)
+18:46:32	Warning: 	HTML file (105537 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-2-afgelopen/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-2-afgelopen/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-2-afgelopen/ (from https://wieisdemol.avrotros.nl/afleveringen/)
+18:46:32	Warning: 	HTML file (102335 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-1-een-handje-helpen/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-1-een-handje-helpen/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-1-een-handje-helpen/ (from https://wieisdemol.avrotros.nl/afleveringen/)
+18:46:32	Warning: 	HTML file (670 bytes) retransferred due to lack of cache: wieisdemol.avrotros.nl/kandidaten/item/item/
+18:46:32	Warning: 	File not added due to mirror cancel: wieisdemol.avrotros.nl/kandidaten/item/item/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link wieisdemol.avrotros.nl/kandidaten/item/item/ (from https://wieisdemol.avrotros.nl/kandidaten/item/)
+18:46:32	Warning: 	HTML file (106549 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-dia-del-topito/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-dia-del-topito/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-dia-del-topito/ (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-wie-zwijgt-wie-liegt-wie-bekent/)
+18:46:32	Warning: 	HTML file (96537 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-2024-1-babs/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-2024-1-babs/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-2024-1-babs/ (from https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-5-1/)
+18:46:32	Warning: 	HTML file (102354 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-2024-2-jip/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-2024-2-jip/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-2024-2-jip/ (from https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-5-1/)
+18:46:32	Warning: 	HTML file (91376 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/abonneer-je-op-de-nieuwsbrief/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/abonneer-je-op-de-nieuwsbrief/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/abonneer-je-op-de-nieuwsbrief/ (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-niets-is-iets/)
+18:46:32	Warning: 	HTML file (102935 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-wie-keert-er-terug/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-wie-keert-er-terug/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-wie-keert-er-terug/ (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-niets-is-iets/)
+18:46:32	Warning: 	HTML file (105165 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-41-1/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-41-1/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-41-1/ (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-niets-is-iets/)
+18:46:32	Warning: 	HTML file (109527 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-wie-wordt-de-penningmeester/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-wie-wordt-de-penningmeester/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-wie-wordt-de-penningmeester/ (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-niets-is-iets/)
+18:46:32	Warning: 	HTML file (102687 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-de-molympische-spelen/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-de-molympische-spelen/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-de-molympische-spelen/ (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-bij-elkaar-passen/)
+18:46:32	Warning: 	HTML file (103961 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-speeddate/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-speeddate/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-speeddate/ (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-bij-elkaar-passen/)
+18:46:32	Warning: 	HTML file (102524 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-hoog-spel-spelen-2/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-hoog-spel-spelen-2/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-hoog-spel-spelen-2/ (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-4-revanche/)
+18:46:32	Warning: 	HTML file (107422 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-het-gebaande-pad/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-het-gebaande-pad/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-het-gebaande-pad/ (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-op-elkaar-rekenen/)
+18:46:32	Warning: 	HTML file (106785 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-met-rik-in-een-bubbelbad/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-met-rik-in-een-bubbelbad/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-met-rik-in-een-bubbelbad/ (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-op-elkaar-rekenen/)
+18:46:32	Warning: 	HTML file (107416 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-de-violen-stemmen/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-de-violen-stemmen/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-de-violen-stemmen/ (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-3-vragenvuur/)
+18:46:32	Warning: 	HTML file (107629 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-er-mee-worstelen/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-er-mee-worstelen/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-er-mee-worstelen/ (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-3-vragenvuur/)
+18:46:32	Warning: 	HTML file (98223 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-de-reacties-op-de-eerste-eliminatie/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-de-reacties-op-de-eerste-eliminatie/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-de-reacties-op-de-eerste-eliminatie/ (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-3-vragenvuur/)
+18:46:32	Warning: 	HTML file (103021 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-jip-van-den-toorn/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-jip-van-den-toorn/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-jip-van-den-toorn/ (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-2-afgelopen/)
+18:46:32	Warning: 	HTML file (103803 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-uitzitten/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-uitzitten/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-uitzitten/ (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-2-afgelopen/)
+18:46:32	Warning: 	HTML file (106692 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-afschilderen/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-afschilderen/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-afschilderen/ (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-1-een-handje-helpen/)
+18:46:32	Warning: 	HTML file (113074 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-babs-schutte/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-babs-schutte/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-babs-schutte/ (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-1-een-handje-helpen/)
+18:46:32	Warning: 	HTML file (95763 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/widm-seizoen-14-aflevering-7-moet-je-zien-27-02-2014/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/widm-seizoen-14-aflevering-7-moet-je-zien-27-02-2014/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/widm-seizoen-14-aflevering-7-moet-je-zien-27-02-2014/ (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-babs-schutte/)
+18:46:32	Warning: 	HTML file (94234 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/widm-seizoen-14-aflevering-6-5-op-een-rij-06-02-2014/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/widm-seizoen-14-aflevering-6-5-op-een-rij-06-02-2014/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/widm-seizoen-14-aflevering-6-5-op-een-rij-06-02-2014/ (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-babs-schutte/)
+18:46:32	Warning: 	HTML file (106461 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-5-2/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-5-2/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-5-2/ (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-9-2/)
+18:46:32	Warning: 	HTML file (109404 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-4-weglopen/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-4-weglopen/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-4-weglopen/ (from https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-4-annick-boer/)
+18:46:32	Warning: 	HTML file (102665 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-annick-boer/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-annick-boer/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-annick-boer/ (from https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-4-annick-boer/)
+18:46:32	Warning: 	HTML file (100646 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-4-2/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-4-2/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-4-2/ (from https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-4-annick-boer/)
+18:46:32	Warning: 	HTML file (99618 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-3-sander-de-kramer/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-3-sander-de-kramer/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-3-sander-de-kramer/ (from https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-4-annick-boer/)
+18:46:32	Warning: 	HTML file (101662 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-8-de-finalisten/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-8-de-finalisten/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-8-de-finalisten/ (from https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-4-annick-boer/)
+18:46:32	Warning: 	HTML file (102547 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-anke-de-jong/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-anke-de-jong/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-anke-de-jong/ (from https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-6-anke-de-jong/)
+18:46:32	Warning: 	HTML file (105069 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-reacties-op-de-eliminatie/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-reacties-op-de-eliminatie/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-reacties-op-de-eliminatie/ (from https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-6-anke-de-jong/)
+18:46:32	Warning: 	HTML file (105174 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol5-nabil-aoulad-ayad/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol5-nabil-aoulad-ayad/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol5-nabil-aoulad-ayad/ (from https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-6-anke-de-jong/)
+18:46:32	Warning: 	HTML file (114089 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-soy-kroon/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-soy-kroon/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-soy-kroon/ (from https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-7-soy-kroon/)
+18:46:32	Warning: 	HTML file (107590 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-9-molafspraak/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-9-molafspraak/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-9-molafspraak/ (from https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-7-soy-kroon/)
+18:46:32	Warning: 	HTML file (106353 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-commando-mol/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-commando-mol/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-commando-mol/ (from https://wieisdemol.avrotros.nl/afleveringen/item/widm-seizoen-14-aflevering-7-moet-je-zien-27-02-2014/)
+18:46:32	Warning: 	HTML file (105350 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-analoge-test/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-analoge-test/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-analoge-test/ (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-blik-in-de-toekomst/)
+18:46:32	Warning: 	HTML file (95230 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/koffiepedia/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/koffiepedia/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/koffiepedia/ (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-blik-in-de-toekomst/)
+18:46:32	Warning: 	HTML file (95133 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/afl-4-koffiepedia/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/afl-4-koffiepedia/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/afl-4-koffiepedia/ (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-blik-in-de-toekomst/)
+18:46:32	Warning: 	HTML file (102395 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-kamerindeling-1/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-kamerindeling-1/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-kamerindeling-1/ (from https://wieisdemol.avrotros.nl/afleveringen/item/widm-seizoen-14-aflevering-6-5-op-een-rij-06-02-2014/)
+18:46:32	Warning: 	HTML file (108578 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-6-lijdensweg/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-6-lijdensweg/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-6-lijdensweg/ (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-6-2/)
+18:46:32	Warning: 	HTML file (104187 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-altaar-ego-1/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-altaar-ego-1/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-altaar-ego-1/ (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-6-2/)
+18:46:32	Warning: 	HTML file (103635 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-moltelefoon/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-moltelefoon/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-moltelefoon/ (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-annick-boer/)
+18:46:32	Warning: 	HTML file (127660 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-nabil-aoulad-ayad/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-nabil-aoulad-ayad/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-nabil-aoulad-ayad/ (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-annick-boer/)
+18:46:32	Warning: 	HTML file (108892 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-sarah-janneh/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-sarah-janneh/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-sarah-janneh/ (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-annick-boer/)
+18:46:32	Warning: 	HTML file (108605 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-sander-de-kramer/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-sander-de-kramer/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-sander-de-kramer/ (from https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-3-sander-de-kramer/)
+18:46:32	Warning: 	HTML file (102176 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-stalen-zenuwen/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-stalen-zenuwen/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-stalen-zenuwen/ (from https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-1-sarah-janneh/)
+18:46:32	Warning: 	HTML file (122276 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-mol-jurre-geluk/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-mol-jurre-geluk/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-mol-jurre-geluk/ (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-anke-de-jong/)
+18:46:32	Warning: 	HTML file (112075 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-winnaar-daniel-verlaan/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-winnaar-daniel-verlaan/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-winnaar-daniel-verlaan/ (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-anke-de-jong/)
+18:46:32	Warning: 	HTML file (109772 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-verliezend-finalist-ranomi-kromowidjojo/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-verliezend-finalist-ranomi-kromowidjojo/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-verliezend-finalist-ranomi-kromowidjojo/ (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-anke-de-jong/)
+18:46:32	Warning: 	HTML file (104159 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-alleen-maar-vloeken/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-alleen-maar-vloeken/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-alleen-maar-vloeken/ (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-reacties-op-de-eliminatie/)
+18:46:32	Warning: 	HTML file (108567 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-7-inzichtelijk/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-7-inzichtelijk/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-7-inzichtelijk/ (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-reacties-op-de-eliminatie/)
+18:46:32	Warning: 	HTML file (108642 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-een-potentiele-mol-minder/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-een-potentiele-mol-minder/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-een-potentiele-mol-minder/ (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-reacties-op-de-eliminatie/)
+18:46:32	Warning: 	HTML file (104678 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-opkofferen-1/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-opkofferen-1/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-opkofferen-1/ (from https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol5-nabil-aoulad-ayad/)
+18:46:32	Warning: 	HTML file (110029 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-abvallers/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-abvallers/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-abvallers/ (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-soy-kroon/)
+18:46:32	Warning: 	HTML file (102767 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-van-ruilen-komt-huilen/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-van-ruilen-komt-huilen/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-van-ruilen-komt-huilen/ (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-9-molafspraak/)
+18:46:32	Warning: 	HTML file (103417 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-stoelendans/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-stoelendans/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-stoelendans/ (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-9-molafspraak/)
+18:46:32	Warning: 	HTML file (102058 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-zingen-en-dansen-tegelijk/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-zingen-en-dansen-tegelijk/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-zingen-en-dansen-tegelijk/ (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-9-molafspraak/)
+18:46:32	Warning: 	HTML file (101789 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-grootste-angst/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-grootste-angst/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-grootste-angst/ (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-9-molafspraak/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/8/2/csm_Moltalk-3-2023_3b92aeab2c.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/8/2/csm_Moltalk-3-2023_3b92aeab2c.jpg (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-3-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/b/c/csm_widm23-exclusief-busjeruilen_08484d7765.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/b/c/csm_widm23-exclusief-busjeruilen_08484d7765.png (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-3-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/7/5/csm_131-MOL-COMPILIATIE-1280x720-web_9f2067f70e.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/7/5/csm_131-MOL-COMPILIATIE-1280x720-web_9f2067f70e.jpg (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-3-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/e/1/csm_widm23-exclusief-commandomol_81bbd3bc55.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/e/1/csm_widm23-exclusief-commandomol_81bbd3bc55.png (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-commando-mol/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/7/9/csm_WIDM23-Rik-van-de-Westelaken-podcast_c822047ded.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/7/9/csm_WIDM23-Rik-van-de-Westelaken-podcast_c822047ded.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-commando-mol/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/1/1/csm_widm23-opdracht2-zandlopers_9676011e89.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/1/1/csm_widm23-opdracht2-zandlopers_9676011e89.png (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-commando-mol/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/a/9/csm_widm23-opdracht3-analogetest_05362047d7.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/a/9/csm_widm23-opdracht3-analogetest_05362047d7.png (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-analoge-test/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/b/6/csm_widm23-opdracht1-uitvlakken_28e7520a71.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/b/6/csm_widm23-opdracht1-uitvlakken_28e7520a71.png (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-analoge-test/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/5/c/csm_widm23-exclusief-doornaaraflevering9_ccdd4df381.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/5/c/csm_widm23-exclusief-doornaaraflevering9_ccdd4df381.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-analoge-test/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/e/8/csm_widm23-opdracht2-vuurproef_ffb365c2bf.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/e/8/csm_widm23-opdracht2-vuurproef_ffb365c2bf.png (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-analoge-test/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/e/3/csm_widm23-opdracht3-hetschipingaan_f16bb542a6.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/e/3/csm_widm23-opdracht3-hetschipingaan_f16bb542a6.png (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-analoge-test/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/5/1/csm_WIDM Opdracht 4.1_69860b0d14.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/5/1/csm_WIDM Opdracht 4.1_69860b0d14.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-41/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/0/5/csm_WIDM Opdracht-4.2_21c3f14dff.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/0/5/csm_WIDM Opdracht-4.2_21c3f14dff.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-41/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/a/2/csm_WIDM Opdracht-4.3_db0e9510fe.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/a/2/csm_WIDM Opdracht-4.3_db0e9510fe.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-41/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/8/d/csm_Thumb-extra-video-7-2b-DeNoiseAI-denoise_c761b3b982.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/8/d/csm_Thumb-extra-video-7-2b-DeNoiseAI-denoise_c761b3b982.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-41/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/a/8/csm_WIDM opdracht 1 aflevering 2 s21_5d96a3e8ec.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/a/8/csm_WIDM opdracht 1 aflevering 2 s21_5d96a3e8ec.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-41/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/5/f/csm_WIDM opdracht 2 aflevering 2 s21_0cb359f5df.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/5/f/csm_WIDM opdracht 2 aflevering 2 s21_0cb359f5df.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-41/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/9/1/csm_WIDM aflevering 3 opdracht 3_469f4038ba.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/9/1/csm_WIDM aflevering 3 opdracht 3_469f4038ba.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-41/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/9/a/csm_Opdracht-6.1_4bf09c0fb5.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/9/a/csm_Opdracht-6.1_4bf09c0fb5.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-41/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/3/4/csm_Aflevering-6_77cd876460.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/3/4/csm_Aflevering-6_77cd876460.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-41/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/b/e/csm_2019_4_opdr3_thumb_b989a52e45.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/b/e/csm_2019_4_opdr3_thumb_b989a52e45.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/koffiepedia/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/2/f/csm_WIDM A7 Opdracht 2_fd3bdc4065.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/2/f/csm_WIDM A7 Opdracht 2_fd3bdc4065.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/koffiepedia/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/c/f/csm_2019_2_thumb_opdr_2_c763becf01.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/c/f/csm_2019_2_thumb_opdr_2_c763becf01.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/koffiepedia/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/1/d/csm_2019_8_opdr2_thumb_0a12365f37.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/1/d/csm_2019_8_opdr2_thumb_0a12365f37.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/koffiepedia/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/4/4/csm_item_1275_14eb99be57.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/4/4/csm_item_1275_14eb99be57.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/koffiepedia/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/poms_import/item_1272.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/poms_import/item_1272.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/afl-4-koffiepedia/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/5/c/csm_widm-exclusief-kamerindeling_84991855d8.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/5/c/csm_widm-exclusief-kamerindeling_84991855d8.png (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-kamerindeling-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/9/9/csm_foto haarlem_07fa19df07.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/9/9/csm_foto haarlem_07fa19df07.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-kamerindeling-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/2/c/csm_IJSSELSTEIN_b9d93dc009.jpeg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/2/c/csm_IJSSELSTEIN_b9d93dc009.jpeg (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-kamerindeling-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/7/e/csm_KIST WEERT_3af21b3d03.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/7/e/csm_KIST WEERT_3af21b3d03.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-kamerindeling-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/b/b/csm_MIDDELBURG_eab02c4828.jpeg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/b/b/csm_MIDDELBURG_eab02c4828.jpeg (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-kamerindeling-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/2/8/csm_DEVENTER_8259766339.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/2/8/csm_DEVENTER_8259766339.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-kamerindeling-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/5/8/csm_WIDM_artikelheader_d83ef2eaca.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/5/8/csm_WIDM_artikelheader_d83ef2eaca.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-kamerindeling-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/3/9/csm_tygo_aantafel_jubileum_0872c3b5d8.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/3/9/csm_tygo_aantafel_jubileum_0872c3b5d8.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-verliezend-finalist-3/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/d/3/csm_Nikkie_aantafel_jubileum_ca18fc7481.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/d/3/csm_Nikkie_aantafel_jubileum_ca18fc7481.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-verliezend-finalist-3/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/3/9/csm_jeroen_aantafel_jubileum_95e0fdae06.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/3/9/csm_jeroen_aantafel_jubileum_95e0fdae06.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-verliezend-finalist-3/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/4/9/csm_moltalk7_jubileum_thumbnail_e6e13639b0.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/4/9/csm_moltalk7_jubileum_thumbnail_e6e13639b0.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-verliezend-finalist-3/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/e/1/csm_aflevering7_thumbs_0003_Thumb afl 7_d4cb4aa458.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/e/1/csm_aflevering7_thumbs_0003_Thumb afl 7_d4cb4aa458.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-verliezend-finalist-3/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/2/3/csm_thumb_finale_widm-JUBILEUM_1c40e6e1a9.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/2/3/csm_thumb_finale_widm-JUBILEUM_1c40e6e1a9.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-verliezend-finalist-3/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/6/1/csm_jubileum_thumb_NTERNET_INTERVIEW_MET_MUZIEK_10_3ed57fa554.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/6/1/csm_jubileum_thumb_NTERNET_INTERVIEW_MET_MUZIEK_10_3ed57fa554.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-verliezend-finalist-3/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/9/b/csm_item_1394_73af563a45.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/9/b/csm_item_1394_73af563a45.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-verliezend-finalist-3/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/a/7/csm_item_1396_8d0d8b2018.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/a/7/csm_item_1396_8d0d8b2018.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-verliezend-finalist-3/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/1/a/csm_Moltalk-aflevering1-gasten_8f12817abf.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/1/a/csm_Moltalk-aflevering1-gasten_8f12817abf.jpg (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-1-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/user_upload/WIDM23/Moltalk/Moltalk-aflevering1-gasten.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/user_upload/WIDM23/Moltalk/Moltalk-aflevering1-gasten.jpg (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-1-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/4/9/csm_WIDM-aflevering1-header_7e88769a36.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/4/9/csm_WIDM-aflevering1-header_7e88769a36.jpg (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-1-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/d/5/csm_Moltalk-a6 voor web_dc20cc848c.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/d/5/csm_Moltalk-a6 voor web_dc20cc848c.jpg (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-6/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/4/9/csm_Molvisie-share_73362492b2.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/4/9/csm_Molvisie-share_73362492b2.jpg (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-6/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/b/3/csm_Thumb-extra-video-1-aflevering5-groep-DeNoiseAI-denoise_d6abfa0e8f.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/b/3/csm_Thumb-extra-video-1-aflevering5-groep-DeNoiseAI-denoise_d6abfa0e8f.jpg (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-6/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/0/8/csm_Moltalk-5-voor-web_84abce1d3c.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/0/8/csm_Moltalk-5-voor-web_84abce1d3c.jpg (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-6/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/2/6/csm_Moltalk-A8---opgeslagen-voor-web_2fc67601bf.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/2/6/csm_Moltalk-A8---opgeslagen-voor-web_2fc67601bf.jpg (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-6/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/e/9/csm_2021_Moltalk-7-opgeslagen-voor-web_73a4a44d02.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/e/9/csm_2021_Moltalk-7-opgeslagen-voor-web_73a4a44d02.jpg (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-6/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/0/d/csm_MolTalk-Aflevering-4-gasten_f2df7b91fc.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/0/d/csm_MolTalk-Aflevering-4-gasten_f2df7b91fc.jpg (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-6/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/5/b/csm_Drietal-MolTalk-voor-web_88573a8320.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/5/b/csm_Drietal-MolTalk-voor-web_88573a8320.jpg (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-2-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/e/6/csm_WIDM-a2-Zwijgen-broadcast-voor-web_a6204932ff.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/e/6/csm_WIDM-a2-Zwijgen-broadcast-voor-web_a6204932ff.jpg (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-2-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/f/a/csm_Dagboek-afvaller_A2-website_c619389bbd.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/f/a/csm_Dagboek-afvaller_A2-website_c619389bbd.jpg (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-2-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/7/f/csm_NDM-thumbnail-A2-afvaller-web_a0e3eccf1a.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/7/f/csm_NDM-thumbnail-A2-afvaller-web_a0e3eccf1a.jpg (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-2-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/2/9/csm_MolTalk 8 gasten lachend_53d62f381c.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/2/9/csm_MolTalk 8 gasten lachend_53d62f381c.jpg (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-2-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/7/6/csm_MolTalk-15-jan-voor-web_bdfbc66f13.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/7/6/csm_MolTalk-15-jan-voor-web_bdfbc66f13.jpg (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-2-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/1/6/csm_MolTalk A5 gasten_88da77fc79.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/1/6/csm_MolTalk A5 gasten_88da77fc79.jpg (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-2-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/a/b/csm_widm23-aflevering6-lijdensweg_0120cb6a64.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/a/b/csm_widm23-aflevering6-lijdensweg_0120cb6a64.png (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-6-lijdensweg/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/a/1/csm_widm23-opdracht2_081ed08a8f.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/a/1/csm_widm23-opdracht2_081ed08a8f.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-6-lijdensweg/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/5/6/csm_widm23-opdracht1-altaarego_0250904597.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/5/6/csm_widm23-opdracht1-altaarego_0250904597.png (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-altaar-ego-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/9/2/csm_widm23-opdracht2-verschijning_c0fbb67a06.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/9/2/csm_widm23-opdracht2-verschijning_c0fbb67a06.png (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-altaar-ego-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/1/5/csm_WIDM-aflevering5_2b361f24f1.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/1/5/csm_WIDM-aflevering5_2b361f24f1.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-5-portretten/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/7/f/csm_exclusief-4.2_4a6f73bc64.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/7/f/csm_exclusief-4.2_4a6f73bc64.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-wie-heeft-het-rode-scherm-gezien/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/b/7/csm_widm23-opdracht3-aflevering1_32e2d7899c.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/b/7/csm_widm23-opdracht3-aflevering1_32e2d7899c.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-wie-heeft-het-rode-scherm-gezien/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/7/0/csm_widm23-aflevering8-2_10a36fc5d4.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/7/0/csm_widm23-aflevering8-2_10a36fc5d4.png (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-wie-heeft-het-rode-scherm-gezien/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/6/f/csm_widm-aflevering3-header_be9531db74.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/6/f/csm_widm-aflevering3-header_be9531db74.png (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-3-spelbreker/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/9/8/csm_widm23-opdracht1-omleiding_c85f09fe60.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/9/8/csm_widm23-opdracht1-omleiding_c85f09fe60.png (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-3-spelbreker/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/3/4/csm_widm23-opdracht2-perdefinitie_50bfc723b5.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/3/4/csm_widm23-opdracht2-perdefinitie_50bfc723b5.png (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-3-spelbreker/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/1/4/csm_widm23-Opdracht1-aflevering1_365abacbd5.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/1/4/csm_widm23-Opdracht1-aflevering1_365abacbd5.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-3-spelbreker/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/4/d/csm_WIDM-3.2-Typo_be0e8eba53.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/4/d/csm_WIDM-3.2-Typo_be0e8eba53.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-hoelang-blijft-dit-geheim/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/5/5/csm_land-seizoen-23-hoofd_1f13318831.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/5/5/csm_land-seizoen-23-hoofd_1f13318831.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-hoelang-blijft-dit-geheim/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/6/0/csm_widm23-opdracht1_83f218f365.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/6/0/csm_widm23-opdracht1_83f218f365.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-padvinders-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/7/e/csm_widm23-Opdracht2-aflevering1_ccd7e6191b.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/7/e/csm_widm23-Opdracht2-aflevering1_ccd7e6191b.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-gulden-middenweg/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/1/e/csm_widm23-opdracht3-moltelefoon_d5d43a5c13.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/1/e/csm_widm23-opdracht3-moltelefoon_d5d43a5c13.png (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-moltelefoon/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/1/6/csm_widm23-opdracht1-focusgroep_0d29153f13.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/1/6/csm_widm23-opdracht1-focusgroep_0d29153f13.png (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-moltelefoon/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/b/c/csm_widm23-dagboek5_a952f32bc0.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/b/c/csm_widm23-dagboek5_a952f32bc0.png (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-nabil-aoulad-ayad/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/poms_import/item_1962.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/poms_import/item_1962.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/vooruitblik-aflevering-1-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/3/3/csm_item_2059_d5d190c58a.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/3/3/csm_item_2059_d5d190c58a.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/vooruitblik-aflevering-1-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/a/b/csm_item_2050_b90cc96f9b.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/a/b/csm_item_2050_b90cc96f9b.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/vooruitblik-aflevering-1-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/9/9/csm_Vooruitblik-aflevering-6_e41282d67b.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/9/9/csm_Vooruitblik-aflevering-6_e41282d67b.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/vooruitblik-aflevering-1-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/f/1/csm_widm23_dagboek_afvaller1_480daa34a6.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/f/1/csm_widm23_dagboek_afvaller1_480daa34a6.png (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-sarah-janneh/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/a/6/csm_widm-default-image_fd418dada6.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/a/6/csm_widm-default-image_fd418dada6.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-sarah-janneh/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/1/9/csm_MolTalk-3 voor web_a786187c8c.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/1/9/csm_MolTalk-3 voor web_a786187c8c.jpg (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-3/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/b/0/csm_Dagboek-afvaller-aflevering3-rechts_75b3e08167.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/b/0/csm_Dagboek-afvaller-aflevering3-rechts_75b3e08167.jpg (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-3/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/d/f/csm_WIDM aflevering 3_acf769b2f9.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/d/f/csm_WIDM aflevering 3_acf769b2f9.jpg (from https://wieisdemol.avrotros.nl/moltalk/item/moltalk-aflevering-3/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/c/b/csm_widm23-dagboek-afvaller3_84ae9e8885.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/c/b/csm_widm23-dagboek-afvaller3_84ae9e8885.png (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-sander-de-kramer/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/3/0/csm_9 E Soy daniel ranomi_ec310c5c65.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/3/0/csm_9 E Soy daniel ranomi_ec310c5c65.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-afvaller-sander-de-kramer/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/2/e/csm_NDM-thumbnail-Froukje_91f177487a.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/2/e/csm_NDM-thumbnail-Froukje_91f177487a.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-2-froukje-de-both/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/b/b/csm_widm23_dagboek_afvaller2_cdc0ed5776.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/b/b/csm_widm23_dagboek_afvaller2_cdc0ed5776.png (from https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-2-froukje-de-both/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/9/f/csm_prijsvraag-aflevering2_e57d425894.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/9/f/csm_prijsvraag-aflevering2_e57d425894.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/niet-de-mol-2-froukje-de-both/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/8/d/csm_WIDM-Finalisten-1280x720_5073fc2183.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/8/d/csm_WIDM-Finalisten-1280x720_5073fc2183.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-10-pokerface/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/d/0/csm_141-ZANDLOPERS-1280x720-web_a15fb4f89f.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/d/0/csm_141-ZANDLOPERS-1280x720-web_a15fb4f89f.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-10-pokerface/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/e/0/csm_widm23-aflevering2-V2_d990a5687b.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/e/0/csm_widm23-aflevering2-V2_d990a5687b.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-2-kunstgreep/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/b/b/csm_widm23-opdracht2-propvol_7cd5258f28.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/b/b/csm_widm23-opdracht2-propvol_7cd5258f28.png (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-2-kunstgreep/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/0/c/csm_Podcast-Splinter-voor-web_1f3c38b4e2.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/0/c/csm_Podcast-Splinter-voor-web_1f3c38b4e2.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/de-wie-is-de-mol-podcast-seizoen-22/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/f/7/csm_Niet-de-Mol-Splinter-Chabot-rode-koffer_4cd9b2d36d.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/f/7/csm_Niet-de-Mol-Splinter-Chabot-rode-koffer_4cd9b2d36d.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/de-wie-is-de-mol-podcast-seizoen-22/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/8/b/csm_NDM-3-Thumb-afvaller-POMS-TYPO_7bc51b3181.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/8/b/csm_NDM-3-Thumb-afvaller-POMS-TYPO_7bc51b3181.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/de-wie-is-de-mol-podcast-seizoen-22/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/6/d/csm_widm23-opdracht1-stalenzenuwen_abcfb556ad.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/6/d/csm_widm23-opdracht1-stalenzenuwen_abcfb556ad.png (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-stalen-zenuwen/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/4/f/csm_item_1978_9133d7f704.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/4/f/csm_item_1978_9133d7f704.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-stalen-zenuwen/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/d/2/csm_Dagboek-Mol-Website_01d991f294.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/d/2/csm_Dagboek-Mol-Website_01d991f294.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-mol-jurre-geluk/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/3/0/csm_Dagboek-winnaar_website_3981822890.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/3/0/csm_Dagboek-winnaar_website_3981822890.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-winnaar-daniel-verlaan/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/3/3/csm_Rik-pers-7_bff1ebbf1f.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/3/3/csm_Rik-pers-7_bff1ebbf1f.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-winnaar-daniel-verlaan/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/1/1/csm_Dagboek-verliezend-finalist_website_9458ebd982.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/1/1/csm_Dagboek-verliezend-finalist_website_9458ebd982.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/dagboek-van-de-verliezend-finalist-ranomi-kromowidjojo/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/f/8/csm_widm23-exclusief-alleenmaarvloeken_8c098f8f00.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/f/8/csm_widm23-exclusief-alleenmaarvloeken_8c098f8f00.png (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-alleen-maar-vloeken/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/e/4/csm_widm23-exclusief-roadtrip_15231d6e7e.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/e/4/csm_widm23-exclusief-roadtrip_15231d6e7e.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-alleen-maar-vloeken/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/1/2/csm_widm23-aflevering7-inzichtelijk_8976ddd376.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/1/2/csm_widm23-aflevering7-inzichtelijk_8976ddd376.png (from https://wieisdemol.avrotros.nl/afleveringen/item/aflevering-7-inzichtelijk/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/b/6/csm_Thumb POMS EV afscheid1_de16f9b7ac.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/b/6/csm_Thumb POMS EV afscheid1_de16f9b7ac.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-een-potentiele-mol-minder/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/8/9/csm_Dagboek-afvaller5_website_6bc9a6ab17.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/8/9/csm_Dagboek-afvaller5_website_6bc9a6ab17.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-een-potentiele-mol-minder/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/0/6/csm_Thumb POMS NDM 5 kandidaat_e968fdbe8b.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/0/6/csm_Thumb POMS NDM 5 kandidaat_e968fdbe8b.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-een-potentiele-mol-minder/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/8/5/csm_Thumb POMS EV zweverig4_a25ef1fded.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/8/5/csm_Thumb POMS EV zweverig4_a25ef1fded.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-een-potentiele-mol-minder/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/1/d/csm_WIDM-aflevering-5_ad9d1eaccf.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/1/d/csm_WIDM-aflevering-5_ad9d1eaccf.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-een-potentiele-mol-minder/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/9/8/csm_Thumb POMS EV afscheid_b1aa768315.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/9/8/csm_Thumb POMS EV afscheid_b1aa768315.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-een-potentiele-mol-minder/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/a/b/csm_Extra-video-2-voor-web_09198d1ab8.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/a/b/csm_Extra-video-2-voor-web_09198d1ab8.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-een-potentiele-mol-minder/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/9/2/csm_Thumb POMS EV Afscheid1_5085d5a93f.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/9/2/csm_Thumb POMS EV Afscheid1_5085d5a93f.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-een-potentiele-mol-minder/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/5/e/csm_WIDM aflevering 8_9734f46888.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/5/e/csm_WIDM aflevering 8_9734f46888.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-een-potentiele-mol-minder/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/f/c/csm_MolTalk Rop Marlijn Everon_8603f22b50.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/f/c/csm_MolTalk Rop Marlijn Everon_8603f22b50.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-een-potentiele-mol-minder/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/2/b/csm_Wie-is-de-Mol-aflevering-4_5f481266c0.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/2/b/csm_Wie-is-de-Mol-aflevering-4_5f481266c0.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-een-potentiele-mol-minder/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/6/f/csm_Exclusief-Nabil-afscheid_84a8fa3691.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/6/f/csm_Exclusief-Nabil-afscheid_84a8fa3691.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-mag-nabil-afscheid-nemen/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/5/e/csm_widm23-opdracht3_e2529acae9.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/5/e/csm_widm23-opdracht3_e2529acae9.png (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-3-opkofferen-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/1/6/csm_widm23-opdracht1-abvallers_92b6786049.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/1/6/csm_widm23-opdracht1-abvallers_92b6786049.png (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-abvallers/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/b/8/csm_widm23-opdracht2-vanruilenkomthuilen_ac34b29551.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/b/8/csm_widm23-opdracht2-vanruilenkomthuilen_ac34b29551.png (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-van-ruilen-komt-huilen/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/5/3/csm_Prijsvraag9-groep_6d65bbd87b.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/5/3/csm_Prijsvraag9-groep_6d65bbd87b.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-2-van-ruilen-komt-huilen/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/c/a/csm_WIDM-23-aflevering-2-exlusief-2_cc202cccfd.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/c/a/csm_WIDM-23-aflevering-2-exlusief-2_cc202cccfd.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-de-ketting-van-froukje-1/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/d/5/csm_widm23-opdracht1-stoelendans_47b7f0fc4d.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/d/5/csm_widm23-opdracht1-stoelendans_47b7f0fc4d.png (from https://wieisdemol.avrotros.nl/afleveringen/item/opdracht-1-stoelendans/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/d/4/csm_widm23-exclusief-zingenendansen_16a06f2ba5.png
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/d/4/csm_widm23-exclusief-zingenendansen_16a06f2ba5.png (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-zingen-en-dansen-tegelijk/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/0/b/csm_5 _ 6 hele groep_54d4d684ab.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/0/b/csm_5 _ 6 hele groep_54d4d684ab.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-grootste-angst/)
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.assets.avrotros.nl/_processed_/4/4/csm_Thumb-Website-extra-video-busje1a_3dfb30d7cb.jpg
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.assets.avrotros.nl/_processed_/4/4/csm_Thumb-Website-extra-video-busje1a_3dfb30d7cb.jpg (from https://wieisdemol.avrotros.nl/afleveringen/item/exclusief-grootste-angst/)
+18:46:32	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/home/a
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/home/a
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/home/a (from https://connect.facebook.net/en_US/fbevents.js)
+18:46:32	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/home/POST
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/home/POST
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/home/POST (from https://connect.facebook.net/en_US/fbevents.js)
+18:46:32	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/home/schema.org/
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/home/schema.org/
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/home/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+18:46:32	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/home/b.resolvedLink
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/home/b.resolvedLink
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/home/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+18:46:32	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://wieisdemol.avrotros.nl/signals/iwl.js
+18:46:32	Warning: 	File not added due to mirror cancel: https://wieisdemol.avrotros.nl/signals/iwl.js
+18:46:32	Error: 	"mirror stopped by user" (-1) at link https://wieisdemol.avrotros.nl/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-4 mirror complete in 4 minutes 34 seconds : 645 links scanned, 412 files written (39666916 bytes overall), 357 files updated [26099979 bytes received at 95255 bytes/sec], 13127133 bytes transferred using HTTP compression in 139 files, ratio 20%, 3.6 requests per connection
+(275 errors, 515 warnings, 0 messages)

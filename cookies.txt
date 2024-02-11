@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+wieisdemol.avrotros.nl	TRUE	/	FALSE	1999999999	GCLB	CIr_neOQnJX1Ow
+wieisdemol.avrotros.nl	TRUE	/	FALSE	1999999999	fe_typo_user	c633251b7bf674797921d45d1e3c5d52
+wieisdemol.avrotros.nl	TRUE	/	FALSE	1999999999	samesite	lax
+accounts.google.com	TRUE	/	FALSE	1999999999	__Host-GAPS	1:gNm1uesqd6PGBwRPgmp6G5FzE340CA:ShI6qg_3EUow4okQ
+accounts.google.com	TRUE	/	FALSE	1999999999	Priority	HIGH
+

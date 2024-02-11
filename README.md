@@ -1,2 +1,0 @@
-# wieisdemol
-wieisdemol scouting edition
